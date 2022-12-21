@@ -3,7 +3,7 @@ import java.io.*;
 import java.util.*;
 import java.util.concurrent.TimeUnit;
 
-public class TCPClient {
+public class Client {
 
     // server host and port number, which would be acquired from command line
     // parameter
